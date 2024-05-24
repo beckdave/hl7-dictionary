@@ -50970,18 +50970,6 @@ var segments = {
             }
         ]
     },
-    "ED": {
-        "desc": "Encapsulated Data",
-        "fields": [
-            {
-                "datatype": "ST",
-                "desc": "Data",
-                "opt": 1,
-                "rep": 1,
-                "len": 10000000
-            }
-        ]
-    },
     "EDU": {
         "desc": "Educational Detail",
         "fields": [
@@ -54591,7 +54579,7 @@ var segments = {
         "fields": [
             {
                 "datatype": "SI",
-                "desc": "Set Id вЂ“ IVT",
+                "desc": "Set Id _ IVT",
                 "opt": 2,
                 "rep": 1,
                 "len": 4
@@ -57982,7 +57970,7 @@ var segments = {
         "fields": [
             {
                 "datatype": "SI",
-                "desc": "Set ID вЂ“ PCE",
+                "desc": "Set Id _ PCE",
                 "opt": 2,
                 "rep": 1,
                 "len": 2
@@ -61382,7 +61370,7 @@ var segments = {
         "fields": [
             {
                 "datatype": "SI",
-                "desc": "Set ID вЂ“ PYE",
+                "desc": "Set Id _ PYE",
                 "opt": 2,
                 "rep": 1,
                 "len": 4
@@ -61827,7 +61815,7 @@ var segments = {
         "fields": [
             {
                 "datatype": "SI",
-                "desc": "Set ID вЂ“REL",
+                "desc": "Set Id _ REL",
                 "opt": 1,
                 "rep": 1,
                 "len": 4
@@ -66378,7 +66366,7 @@ var segments = {
         "fields": [
             {
                 "datatype": "SI",
-                "desc": "Set Id вЂ“ VND",
+                "desc": "Set Id _ VND",
                 "opt": 2,
                 "rep": 1,
                 "len": 2
